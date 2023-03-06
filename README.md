@@ -1,5 +1,5 @@
 Olá! Sou Caio Faria Rigues.
-Atualmente trabalho com Python, com bibliotecas como Pandas, Tkinter, open-cv e outras.
+Atualmente trabalho com Python, com bibliotecas como open-cv, Tkinter, Kivy, Pandas e outras.
 Estou estudando as linguagens C e C++.
 
 
