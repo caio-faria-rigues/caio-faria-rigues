@@ -1,12 +1,14 @@
-Olá! Sou Caio Faria Rigues, técnico em Automação Industrial e graduando em Engenharia Elétrica, Robótica e Automação Industrial.
-Atualmente trabalho com Python, com bibliotecas como open-cv, Tkinter, Kivy, Pandas e outras.
-Estou estudando as linguagens C e C++.
+Olá! Sou Caio Rigues, técnico em Automação Industrial e graduando em Engenharia Elétrica - Robótica e Automação Industrial.
+Atualmente trabalho com software embarcado, com enfoque em ESP-IDF e em Raspberry Pi Pico.
+Com Python, trabalho com open-cv, pytesseract, flet, kivy e pandas.
+
 
 
 <!---
 caio-faria-rigues/caio-faria-rigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-faria-rigues&layout=compact)](https://github.com/caio-faria-rigues/caio-faria-rigues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-faria-rigues&layout=compact)](https://github.com/caio-faria-rigues/caio-faria-rigues)
 ##
 
