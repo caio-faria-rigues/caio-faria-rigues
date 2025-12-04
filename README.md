@@ -2,6 +2,8 @@ Olá! Sou Caio Rigues, técnico em Automação Industrial e graduando em Engenha
 Atualmente trabalho com software embarcado, com enfoque em ESP-IDF e em Raspberry Pi Pico.
 Com Python, trabalho com open-cv, pytesseract, flet, kivy e pandas.
 
+Atualmente, estou aprendendo React Native e Kotlin.
+
 
 
 <!---
